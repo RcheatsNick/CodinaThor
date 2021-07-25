@@ -11,12 +11,12 @@
   <p align="center">
     My awesome README template
     <br />
-    <a href="https://discord.gg/BjEJFwh"><strong>Get support »</strong></a>
+    <a href="https://discord.gg/hwNUDf7PRS"><strong>Get support »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/barbarbar338/readme-template/issues">Report Bug</a>
+    <a href="https://github.com/CodinaThor/CodinaThor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/barbarbar338/readme-template/issues">Request Feature</a>
+    <a href="https://github.com/CodinaThor/CodinaThor/issues">Request Feature</a>
     ·
     <a href="https://bariscodes.me/">Some link</a>
   </p>
@@ -55,15 +55,15 @@ Fell free to use GitHub's features.
 5. Push to the Branch (`git push origin feature/my-feature`)
 6. Open a Pull Request
 
-# 🔥 Show your support
+# 🔥 Desteğinizi gösterin
 
-Give a ⭐️ if this project helped you!
+Bu proje size yardımcı olduysa bir ⭐️ verin!
 
-# 📞 Contact
+# 📞 İletişim
 
--   Mail: yourmail@yourmailservices.url
--   Discord: https://discord.gg/yourdiscord
--   Instagram: https://www.instagram.com/yourinstagram
--   Website: https://www.yourdomainname.url
--   Facebook: https://www.facebook.com/YourFacebook
--   Github: https://www.github.com/YourGithub
+-   Mail: orhandogankahraman@gmail.com
+-   Discord: https://discord.gg/hwNUDf7PRS
+-   Instagram: https://www.instagram.com/İnstagramımYok 
+-   Website: https://www.Şuanlıksitemyok.url
+-   Facebook: https://www.facebook.com/şuanlıkyok
+-   Github: https://www.github.com/CodinaThor
